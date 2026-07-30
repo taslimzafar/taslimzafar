@@ -105,15 +105,6 @@ Goal:
 
 ---
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=taslimzafar&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # 📈 Contribution Graph
 
@@ -125,27 +116,6 @@ Goal:
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=taslimzafar&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-> Enable the GitHub Action to generate this animation.
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/taslimzafar/taslimzafar/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
 
 # ⚡ Development Environment
 
